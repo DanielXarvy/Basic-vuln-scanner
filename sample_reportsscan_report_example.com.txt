@@ -1,0 +1,13 @@
+Scan Report for https://example.com
+
+Response Headers:
+Content-Type: text/html
+Date: Tue, 02 Sep 2025 16:20:16 GMT
+
+Missing Headers:
+- X-Frame-Options
+- X-Content-Type-Options
+- Content-Security-Policy
+
+Sensitive Files Found:
+None
